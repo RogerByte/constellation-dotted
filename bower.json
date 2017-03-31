@@ -1,0 +1,20 @@
+{
+  "name": "constellation-nodes",
+  "homepage": "https://github.com/RogerByte/constellation-dotted",
+  "authors": [
+    "Roger Maldonado <mmaldonado@abrhil.com>"
+  ],
+  "description": "Custom script for create one constellation on canvas",
+  "main": "src/constellation.js",
+  "keywords": [
+    "constellation"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
